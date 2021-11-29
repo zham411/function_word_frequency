@@ -1,7 +1,7 @@
-# tf-idf is used in the Mega Model as a weighting factor in information retrieval and text mining.
+# tf-idf is used as a weighting factor in information retrieval and text mining.
 # tf-idf is a statistic intended to reflect how important a word is to a document in a corpus.
-# Term Frequency,Document Frequency, and TF-IDF (Term-Frequency*Inverse-Document-Frequency)are included.
-# For the Mega Model, Term Frequency is a statistical function that returns a number
+# Term Frequency, Document Frequency, and TF-IDF (Term-Frequency*Inverse-Document-Frequency)are included.
+# Term Frequency is a statistical function that returns a number
 # representing how frequently an expression occurs in a document.
 # This indicates how significant a particular term is in a given document.
 # Document Frequency is a statistical function that returns an integer representing the number of documents in a
